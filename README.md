@@ -1,98 +1,87 @@
-为什么会有 Re:Source？
+# Re:Source
 
-一直在论坛潜水，看帖看久了，就很想有一个简洁、顺手、符合现代 Android 风格的客户端。
+**经典论坛，现代体验**
 
-今年换上 Pixel 10 Pro 之后，越来越喜欢 Material You，于是干脆自己动手做了一个:
-- 遵循 Material You / Material 3 设计
-- 重点放在"好好阅读"，界面干净、不花、不打扰你看帖
-- 上架到 Google Play，作为目前 Google Play 上论坛客户端缺位时的一个小补充
+把你常逛的中文论坛装进一个原生 Android 客户端。不套壳、不卡顿，专注内容本身。
 
-如果你也常刷论坛，希望 Re:Source 能陪你多翻几页帖子。
+[![Google Play](https://img.shields.io/badge/Google_Play-下载-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=io.lv1.resource)
+[![Release](https://img.shields.io/github/v/release/kenischu/ReSource?style=for-the-badge&label=Release&color=3A6EA5)](https://github.com/kenischu/ReSource/releases)
+![Android](https://img.shields.io/badge/Android_8.0+-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
----
-关于名字: Re:Source
-
-Re:Source 这个名字，中间特意加上了"Re:"
-- 在论坛里，"Re:"是"回复"
-- 在英文里，"Re"也有"再次、重新"的意思
-
-回到这个论坛最初的"信息源(Source)"，重新好好把"阅读"这件事做好。
+*浅色 · 深色 · 护眼 — 6 套主题，动态取色，随系统而变*
 
 ---
-简介
 
-Re:Source 是一款为多论坛打造的 Android 原生客户端。
-用 Material You，把论坛内容，装进一个更顺手、更专注阅读的体验里。
-目前支持 HiPDA 和 Chiphell（Chiphell 暂时只支持浏览功能，日后会补全其他功能）。
+## 已接入论坛
 
----
-核心功能
-
-浏览体验
-- 下滑自动加载，免去频繁翻页
-- 自动标记已读 / 未读，未读数一目了然
-- 帖子列表显示锁定和加分标识
-- 置顶帖子支持折叠，不占屏幕空间
-- 子版块导航，快速切换分区
-
-帖子阅读
-- 原生渲染帖子内容，尽量还原字体颜色、大小、加粗等排版效果
-- 支持多页帖子，侧边栏快速跳页
-- 引用楼层会显示楼层内容，点击可自动跳转，支持一键返回原位
-- 只看某位作者功能
-- 自动识别帖子中的站内链接
-
-图片功能
-- 支持全屏看图，左右滑动切换
-- 图片网格视图，支持多选分享或下载
-- 图片压缩上传，支持 GIF 和长图
-- 图片质量设置，按需加载
-
-互动功能
-- 支持发帖、回复、私信
-- 支持论坛原有表情
-- 草稿箱功能，自动保存和管理
-- 多账号支持，一键切换
-
-个性化设置
-- 多种主题：浅色、深色、灰色、米色、E-ink 墨水屏模式
-- 自定义字体大小和行高
-- 竖屏锁定选项
-- 快捷胶囊支持自定义位置和透明度
+| 论坛 | 说明 | 状态 |
+|:-----|:-----|:----:|
+| ![51NB](https://img.shields.io/badge/51NB-0066CC?style=flat&logoColor=white) | 专门网 | ✅ |
+| ![Chiphell](https://img.shields.io/badge/Chiphell-A71F25?style=flat&logoColor=white) | 分享与交流用户体验 | ✅ |
+| ![HiPDA](https://img.shields.io/badge/HiPDA-9386AD?style=flat&logoColor=white) | 4D4Y 论坛 | ✅ |
+| ![LINUX DO](https://img.shields.io/badge/LINUX_DO-FFB103?style=flat&logoColor=333) | Where possible begins | ⚠️ |
+| ![Stage1st](https://img.shields.io/badge/Stage1st-555555?style=flat&logoColor=white) | 游戏动漫论坛 | ✅ |
+| ![V2EX](https://img.shields.io/badge/V2EX-555555?style=flat&logoColor=white) | 创意工作者们的社区 | ✅ |
+| 更多论坛 | 持续接入中… | 🔜 |
 
 ---
-特色
 
-- 使用 Jetpack Compose 开发，拥抱现代 Android 开发范式，界面构建效率更高、稳定性更好。
-- 遵循 Material You（Material 3）设计规范，动态取色，原生质感视觉体验。
-- 针对性能做了较多优化，列表滚动流畅，帖子加载响应迅速。
-- 支持多种主题，以及多种阅读设置。
-- 特色原创"快捷胶囊"交互，常用操作集中在手指附近，单手操作更轻松。
+## 功能亮点
 
----
-反馈与建议
+- **零 WebView，纯原生渲染** — 100% Jetpack Compose 构建，每一帧都是原生性能
+- **阅读记忆** — 自动标记已读帖子、记住阅读进度，下次打开接着看
+- **板块订阅** — 自由组合你关注的板块，打造属于你的论坛首页
+- **Re:Mix 聚合** — 多坛板块混合成一个信息流，一屏刷完，不再反复横跳
+- **快捷胶囊** — 悬浮胶囊支持上下左右滑动 + 点击 + 长按，44 种手势，单手掌控
+- **主题引擎** — 支持 Material You 动态取色，6 套主题随心切换：
+  ![浅色](https://img.shields.io/badge/浅色-3A6EA5?style=flat&logoColor=white)
+  ![深色](https://img.shields.io/badge/深色-111318?style=flat&logoColor=9DC8FF)
+  ![灰色](https://img.shields.io/badge/灰色-1C1C1E?style=flat&logoColor=B0B0B2)
+  ![护眼](https://img.shields.io/badge/护眼-8B6914?style=flat&logoColor=white)
+  ![E-ink](https://img.shields.io/badge/E--ink-888888?style=flat&logoColor=white)
+  ![OLED](https://img.shields.io/badge/OLED-000000?style=flat&logoColor=C4B8E8)
+- **平板 & 折叠屏** — 大屏适配，分栏浏览
 
-如果你愿意长期用一段时间，很希望能听到你的真实感受：
-哪些地方顺手、哪些细节不习惯、还希望补上哪些功能。
-这些都会直接影响之后的改动和优先级安排。
-
-希望 Re:Source 能陪你在论坛多待一会儿。
-
----
-常见问题 Q&A
-
-1. 关于 iOS 版本
-目前 iOS 端的选择已经比较丰富，我这边更想把 Android 版本先打磨好，暂时不会投入精力开发 iOS 版。
-2. 关于鸿蒙版
-因为手上没有相关设备，目前也不在规划范围内，短期内会专注在 Android 客户端本身的完善。
+更多：自定义首页 · 稍后再读 · 固定帖子 · 黑名单 · 特别备注 · 查看全部图片 · AI 摘要
 
 ---
-关于隐私
 
-本应用不会收集任何可识别个人身份的用户数据。您的浏览记录、收藏、关注等数据仅保存在本地设备上。
-本应用使用 Firebase Analytics 收集匿名使用数据，包括：屏幕浏览、功能使用（如搜索、收藏）、会话时长等。这些数据仅用于改善产品体验，无法识别您的身份。
-本应用需要连接 HiPDA/4D4Y 和 Chiphell
-论坛服务器以获取内容。您的论坛账号信息（如有）将直接与论坛服务器通信，本应用不会存储或转发您的密码。
+## 免费 vs Pro
 
-下载
-Google Play: https://play.google.com/store/apps/details?id=io.lv1.resource
+| 功能 | 免费 | Pro |
+|:-----|:----:|:---:|
+| 原生渲染 / 阅读记忆 / 板块订阅 | ✅ | ✅ |
+| 主题引擎 / 快捷胶囊 / 自定义首页 | ✅ | ✅ |
+| 黑名单 / 平板适配 | ✅ | ✅ |
+| 特别备注 | 10 个 | 无限 |
+| 稍后再读 | 10 个 | 无限 |
+| 固定帖子 | 5 个 | 无限 |
+| Re:Mix 聚合 | 1 个 | 无限 |
+| 查看全部图片 | — | ✅ |
+| AI 摘要 | — | ✅ |
+| **价格** | **免费** | **¥6/月 或 ¥60/年** |
+
+---
+
+## 用户怎么说
+
+> **"神作"** — 王世壮 · Google Play ★★★★★
+
+> **"因为这个 app 我又重返 Chiphell。"** — dearbox · Chiphell
+
+> **"顶一个，正在用，感觉上目前排第一的客户端。"** — coolblood · HiPDA
+
+> **"做的真的很漂亮！界面直接吸取了系统配色，放到桌面图标原生匹配主题。"** — loveless21 · HiPDA
+
+---
+
+## 下载
+
+- [Google Play](https://play.google.com/store/apps/details?id=io.lv1.resource)
+- [GitHub Releases (APK)](https://github.com/kenischu/ReSource/releases)
+
+免费下载 · 无广告 · Pro 可选 · Android 8.0+
+
+---
+
+Lovingly made in Macau ❤️
