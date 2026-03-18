@@ -4,6 +4,7 @@
 
 把你常逛的中文论坛装进一个原生 Android 客户端。不套壳、不卡顿，专注内容本身。
 
+[![Website](https://img.shields.io/badge/官网-lv1.io/resource-3A6EA5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lv1.io/resource/)
 [![Google Play](https://img.shields.io/endpoint?style=for-the-badge&logo=google-play&logoColor=white&color=34A853&url=https%3A%2F%2Fplay.cuzi.workers.dev%2Fplay%3Fi%3Dio.lv1.resource%26gl%3DUS%26hl%3Den%26l%3DGoogle%2520Play%26m%3D%25E2%2598%2585%2520%2524rating)](https://play.google.com/store/apps/details?id=io.lv1.resource)
 [![Release](https://img.shields.io/github/v/release/kenischu/ReSource?style=for-the-badge&label=Release&color=3A6EA5)](https://github.com/kenischu/ReSource/releases)
 ![Android](https://img.shields.io/badge/Android_8.0+-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -33,7 +34,7 @@
 - **板块订阅** — 自由组合你关注的板块，打造属于你的论坛首页
 - **Re:Mix 聚合** — 多坛板块混合成一个信息流，一屏刷完，不再反复横跳
 - **快捷胶囊** — 悬浮胶囊支持上下左右滑动 + 点击 + 长按，44 种手势，单手掌控
-- **主题引擎** — 支持 Material You 动态取色，6 套主题随心切换：
+- **主题引擎** — 支持 Material You 动态取色，7 套主题随心切换：
   ![浅色](https://img.shields.io/badge/浅色-3A6EA5?style=flat&logoColor=white)
   ![深色](https://img.shields.io/badge/深色-111318?style=flat&logoColor=9DC8FF)
   ![灰色](https://img.shields.io/badge/灰色-1C1C1E?style=flat&logoColor=B0B0B2)
