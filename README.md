@@ -21,6 +21,7 @@
 | ![Chiphell](https://img.shields.io/badge/Chiphell-A71F25?style=flat&logoColor=white) | 分享与交流用户体验 | ✅ |
 | ![HiPDA](https://img.shields.io/badge/HiPDA-9386AD?style=flat&logoColor=white) | 4D4Y 论坛 | ✅ |
 | ![LINUX DO](https://img.shields.io/badge/LINUX_DO-FFB103?style=flat&logoColor=333) | Where possible begins | ⚠️ |
+| ![NGA](https://img.shields.io/badge/NGA-F8E5C3?style=flat&logoColor=333) | 精英玩家俱乐部 | 🧪 |
 | ![Stage1st](https://img.shields.io/badge/Stage1st-555555?style=flat&logoColor=white) | 游戏动漫论坛 | ✅ |
 | ![V2EX](https://img.shields.io/badge/V2EX-555555?style=flat&logoColor=white) | 创意工作者们的社区 | ✅ |
 | 更多论坛 | 持续接入中… | 🔜 |
@@ -42,6 +43,7 @@
   ![摩卡](https://img.shields.io/badge/摩卡-28201A?style=flat&logoColor=D4A54A)
   ![E-ink](https://img.shields.io/badge/E--ink-888888?style=flat&logoColor=white)
   ![OLED](https://img.shields.io/badge/OLED-000000?style=flat&logoColor=C4B8E8)
+- **卡片生成** — 一键生成精美分享卡片
 - **平板 & 折叠屏** — 大屏适配，分栏浏览
 
 更多：自定义首页 · 稍后再读 · 固定帖子 · 黑名单 · 特别备注 · 查看全部图片 · AI 摘要
@@ -61,6 +63,7 @@
 | Re:Mix 聚合 | 1 个 | 无限 |
 | 查看全部图片 | — | ✅ |
 | AI 摘要 | — | ✅ |
+| 卡片生成 | ✅ | ✅ |
 | **价格** | **免费** | **¥6/月 或 ¥60/年** |
 
 ---
