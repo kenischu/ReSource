@@ -23,6 +23,7 @@
 | ![LINUX DO](https://img.shields.io/badge/LINUX_DO-FFB103?style=flat&logoColor=333) | Where possible begins | ⚠️ |
 | ![NGA](https://img.shields.io/badge/NGA-F8E5C3?style=flat&logoColor=333) | 精英玩家俱乐部 | 🧪 |
 | ![Stage1st](https://img.shields.io/badge/Stage1st-555555?style=flat&logoColor=white) | 游戏动漫论坛 | ✅ |
+| ![TGFC](https://img.shields.io/badge/TGFC-C1282D?style=flat&logoColor=white) | 分享宅生活 | 🧪 |
 | ![V2EX](https://img.shields.io/badge/V2EX-555555?style=flat&logoColor=white) | 创意工作者们的社区 | ✅ |
 | 更多论坛 | 持续接入中… | 🔜 |
 
