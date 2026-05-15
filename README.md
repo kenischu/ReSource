@@ -18,6 +18,7 @@
 | 论坛 | 说明 | 状态 |
 |:-----|:-----|:----:|
 | ![51NB](https://img.shields.io/badge/51NB-0066CC?style=flat&logoColor=white) | 专门网 | ✅ |
+| ![CCF](https://img.shields.io/badge/CCF-334A7D?style=flat&logoColor=white) | 精品技术论坛 | 🧪 |
 | ![Chiphell](https://img.shields.io/badge/Chiphell-A71F25?style=flat&logoColor=white) | 分享与交流用户体验 | ✅ |
 | ![HiPDA](https://img.shields.io/badge/HiPDA-9386AD?style=flat&logoColor=white) | 4D4Y 论坛 | ✅ |
 | ![LINUX DO](https://img.shields.io/badge/LINUX_DO-FFB103?style=flat&logoColor=333) | Where possible begins | ⚠️ |
@@ -68,9 +69,12 @@
 | 稍后再读 | 10 个 | 无限 |
 | 固定帖子 | 5 个 | 无限 |
 | Re:Mix 聚合 | 1 个 | 无限 |
+| 自定义小尾巴 | 1 条 | 3 条 |
 | 查看全部图片 | — | ✅ |
-| AI 摘要 | — | ✅ |
-| **价格** | **免费** | **¥6/月 或 ¥60/年** |
+| AI 摘要 | 3 次/天 | 200 次/天* |
+| **价格** | **免费** | **¥8/月 或 ¥68/年** |
+
+<sub>* 也可配置自己的 API Key，不限次数。</sub>
 
 ---
 
