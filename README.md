@@ -23,10 +23,13 @@
 | ![HiPDA](https://img.shields.io/badge/HiPDA-9386AD?style=flat&logoColor=white) | 4D4Y 论坛 | ✅ |
 | ![LINUX DO](https://img.shields.io/badge/LINUX_DO-FFB103?style=flat&logoColor=333) | Where possible begins | ⚠️ |
 | ![NGA](https://img.shields.io/badge/NGA-F8E5C3?style=flat&logoColor=333) | 精英玩家俱乐部 | 🧪 |
+| ![NodeSeek](https://img.shields.io/badge/NodeSeek-2EA44F?style=flat&logoColor=white) | VPS 与服务端社区 | 🧪 |
 | ![Stage1st](https://img.shields.io/badge/Stage1st-555555?style=flat&logoColor=white) | 游戏动漫论坛 | ✅ |
 | ![TGFC](https://img.shields.io/badge/TGFC-C1282D?style=flat&logoColor=white) | 分享宅生活 | 🧪 |
 | ![V2EX](https://img.shields.io/badge/V2EX-555555?style=flat&logoColor=white) | 创意工作者们的社区 | ✅ |
 | 更多论坛 | 持续接入中… | 🔜 |
+
+<sub>✅ 稳定 · 🧪 测试版 · ⚠️ 部分受限 · 🔜 即将接入</sub>
 
 ---
 
@@ -35,6 +38,8 @@
 - **零 WebView，纯原生渲染** — 100% Jetpack Compose 构建，每一帧都是原生性能
 - **阅读记忆** — 自动标记已读帖子、记住阅读进度，下次打开接着看
 - **板块订阅** — 自由组合你关注的板块，打造属于你的论坛首页
+- **关注用户** — 关注感兴趣的用户，新帖动态集中追看，更新汇入通知
+- **朗读** — 逐楼语音朗读帖子，迷你播放器支持点击跳转、自动滚动、语速与语音切换
 - **Re:Mix 聚合** — 多坛板块混合成一个信息流，一屏刷完，不再反复横跳
 - **快捷胶囊** — 悬浮胶囊支持上下左右滑动 + 点击 + 长按，44 种手势，单手掌控
 - **主题引擎** — 支持 Material You 动态取色，7 套主题随心切换：
@@ -68,9 +73,11 @@
 | 特别备注 | 10 个 | 无限 |
 | 稍后再读 | 10 个 | 无限 |
 | 固定帖子 | 5 个 | 无限 |
+| 关注用户 | 5 个 | 无限 |
 | Re:Mix 聚合 | 1 个 | 无限 |
 | 自定义小尾巴 | 1 条 | 3 条 |
 | 查看全部图片 | — | ✅ |
+| 连续朗读（自动翻页） | — | ✅ |
 | AI 摘要 | 3 次/天 | 200 次/天* |
 | **价格** | **免费** | **¥8/月 或 ¥68/年** |
 
