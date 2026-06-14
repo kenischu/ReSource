@@ -1,15 +1,31 @@
-# Re:Source
+<p align="center">
+  <img src="assets/icon.webp" alt="Re:Source" width="120"/>
+</p>
 
-**经典论坛，现代体验**
+<h1 align="center">Re:Source</h1>
 
-把你常逛的中文论坛装进一个原生 Android 客户端。不套壳、不卡顿，专注内容本身。
+<p align="center">
+  <strong>经典论坛，现代体验</strong><br>
+  把你常逛的中文论坛装进一个原生 Android 客户端 · 不套壳、不卡顿，专注内容本身
+</p>
 
-[![Website](https://img.shields.io/badge/官网-lv1.io/resource-3A6EA5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lv1.io/resource/)
-[![Google Play](https://img.shields.io/endpoint?style=for-the-badge&logo=google-play&logoColor=white&color=34A853&url=https%3A%2F%2Fplay.cuzi.workers.dev%2Fplay%3Fi%3Dio.lv1.resource%26gl%3DUS%26hl%3Den%26l%3DGoogle%2520Play%26m%3D%25E2%2598%2585%2520%2524rating)](https://play.google.com/store/apps/details?id=io.lv1.resource)
-[![Release](https://img.shields.io/github/v/release/kenischu/ReSource?style=for-the-badge&label=Release&color=3A6EA5)](https://github.com/kenischu/ReSource/releases)
-![Android](https://img.shields.io/badge/Android_8.0+-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+<p align="center">
+  <a href="https://lv1.io/resource/"><img src="https://img.shields.io/badge/官网-lv1.io/resource-3A6EA5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="官网"></a>
+  <a href="https://play.google.com/store/apps/details?id=io.lv1.resource"><img src="https://img.shields.io/endpoint?style=for-the-badge&logo=google-play&logoColor=white&color=34A853&url=https%3A%2F%2Fplay.cuzi.workers.dev%2Fplay%3Fi%3Dio.lv1.resource%26gl%3DUS%26hl%3Den%26l%3DGoogle%2520Play%26m%3D%25E2%2598%2585%2520%2524rating" alt="Google Play"></a>
+  <a href="https://github.com/kenischu/ReSource/releases"><img src="https://img.shields.io/github/v/release/kenischu/ReSource?style=for-the-badge&label=Release&color=3A6EA5" alt="Release"></a>
+  <img src="https://img.shields.io/badge/Android_8.0+-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android 8.0+">
+</p>
 
-*浅色 · 深色 · 摩卡 · 护眼 — 7 套主题，动态取色，随系统而变*
+<p align="center">
+  <img src="assets/ss-home.webp" alt="自定义首页" width="200" style="border-radius:26px;"/>
+  <img src="assets/ss-list.webp" alt="帖子列表" width="200" style="border-radius:26px;"/>
+  <img src="assets/ss-actions.webp" alt="快捷操作" width="200" style="border-radius:26px;"/>
+  <img src="assets/ss-ai.webp" alt="AI 摘要" width="200" style="border-radius:26px;"/>
+</p>
+
+<p align="center">
+  <em>浅色 · 深色 · 摩卡 · 护眼 — 7 套主题，动态取色，随系统而变</em>
+</p>
 
 ---
 
@@ -21,7 +37,7 @@
 | ![CCF](https://img.shields.io/badge/CCF-334A7D?style=flat&logoColor=white) | 精品技术论坛 | 🧪 |
 | ![Chiphell](https://img.shields.io/badge/Chiphell-A71F25?style=flat&logoColor=white) | 分享与交流用户体验 | ✅ |
 | ![HiPDA](https://img.shields.io/badge/HiPDA-9386AD?style=flat&logoColor=white) | 4D4Y 论坛 | ✅ |
-| ![LINUX DO](https://img.shields.io/badge/LINUX_DO-FFB103?style=flat&logoColor=333) | Where possible begins | ⚠️ |
+| ![LINUX DO](https://img.shields.io/badge/LINUX_DO-FFB103?style=flat&logoColor=333) | Where possible begins | ✅ |
 | ![NGA](https://img.shields.io/badge/NGA-F8E5C3?style=flat&logoColor=333) | 精英玩家俱乐部 | 🧪 |
 | ![NodeSeek](https://img.shields.io/badge/NodeSeek-2EA44F?style=flat&logoColor=white) | VPS 与服务端社区 | 🧪 |
 | ![Stage1st](https://img.shields.io/badge/Stage1st-555555?style=flat&logoColor=white) | 游戏动漫论坛 | ✅ |
@@ -53,7 +69,7 @@
 - **卡片生成** — 一键生成精美分享卡片
 - **平板 & 折叠屏** — 大屏适配，分栏浏览
 
-更多：自定义首页 · 稍后再读 · 固定帖子 · 黑名单 · 特别备注 · 查看全部图片 · AI 摘要
+更多：自定义首页 · 稍后再读 · 固定帖子 · 黑名单 · 特别备注 · 查看全部图片 · AI 摘要 · AI 排版
 
 ---
 
@@ -70,6 +86,8 @@
 | 查看全部附件 | ✅ | ✅ |
 | 黑名单 | ✅ | ✅ |
 | 平板适配 | ✅ | ✅ |
+| AI 摘要 | ✅ | ✅ |
+| AI 排版 | ✅ | ✅ |
 | 特别备注 | 10 个 | 无限 |
 | 稍后再读 | 10 个 | 无限 |
 | 固定帖子 | 5 个 | 无限 |
@@ -78,10 +96,7 @@
 | 自定义小尾巴 | 1 条 | 3 条 |
 | 查看全部图片 | — | ✅ |
 | 连续朗读（自动翻页） | — | ✅ |
-| AI 摘要 | 3 次/天 | 200 次/天* |
 | **价格** | **免费** | **¥8/月 或 ¥68/年** |
-
-<sub>* 也可配置自己的 API Key，不限次数。</sub>
 
 ---
 
@@ -122,4 +137,4 @@
 
 ---
 
-Lovingly made in Macau ❤️
+<p align="center">Lovingly made in Macau ❤️ By Kenis</p>
