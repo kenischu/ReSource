@@ -24,7 +24,12 @@
 </p>
 
 <p align="center">
-  <em>浅色 · 深色 · 摩卡 · 护眼 — 7 套主题，动态取色，随系统而变</em>
+  <img src="assets/ss-tablet-light.webp" alt="平板分栏 · 浅色" width="330" style="border-radius:18px;"/>
+  <img src="assets/ss-tablet-dark.webp" alt="平板分栏 · 深色" width="330" style="border-radius:18px;"/>
+</p>
+
+<p align="center">
+  <em>浅色 · 深色 · 摩卡 · 护眼 — 7 套主题，动态取色，随系统而变 · 平板 & 折叠屏分栏浏览</em>
 </p>
 
 ---
