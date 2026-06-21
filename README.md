@@ -105,6 +105,19 @@
 
 ---
 
+## 获取 Pro
+
+两种方式，任选其一：
+
+- **Google Play 订阅** — 应用内直接订阅，自动续费
+- **爱发电** — 在爱发电支持即可解锁 Pro ☕
+
+<p align="center">
+  <a href="https://ifdian.net/a/kenis"><img src="https://img.shields.io/badge/爱发电-解锁 Pro-946CE6?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="在爱发电解锁 Pro"></a>
+</p>
+
+---
+
 ## 用户怎么说
 
 > **"神作"** — 王世壮 · Google Play ★★★★★
