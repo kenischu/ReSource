@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://apps.apple.com/app/id6818022759"><img src="assets/badge-app-store.svg" height="40" alt="在 App Store 下载"></a>
   &nbsp;&nbsp;
-  <a href="https://play.google.com/store/apps/details?id=io.lv1.resource"><img src="assets/badge-google-play.png" height="52" alt="下载应用，请到 Google Play"></a>
+  <a href="https://play.google.com/store/apps/details?id=io.lv1.resource"><img src="assets/badge-google-play.png" height="40" alt="下载应用，请到 Google Play"></a>
 </p>
 
 <p align="center">
@@ -213,11 +213,11 @@
 <p align="center">
   <a href="https://apps.apple.com/app/id6818022759"><img src="assets/badge-app-store.svg" height="40" alt="在 App Store 下载"></a>
   &nbsp;&nbsp;
-  <a href="https://play.google.com/store/apps/details?id=io.lv1.resource"><img src="assets/badge-google-play.png" height="52" alt="下载应用，请到 Google Play"></a>
+  <a href="https://play.google.com/store/apps/details?id=io.lv1.resource"><img src="assets/badge-google-play.png" height="40" alt="下载应用，请到 Google Play"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/kenischu/ReSource/releases"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/github-mark-white.svg"><img src="assets/github-mark.svg" height="20" alt=""></picture> GitHub Releases · 直接下载 APK</a>
+  <a href="https://github.com/kenischu/ReSource/releases"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/github-mark-white.svg"><img src="assets/github-mark.svg" height="20" align="absmiddle" alt=""></picture> GitHub Releases · 直接下载 APK</a>
 </p>
 
 <p align="center">免费下载 · 无广告 · Pro 可选 · iOS 26+ · Android 8.0+</p>
