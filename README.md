@@ -10,12 +10,16 @@
 </p>
 
 <p align="center">
+  <a href="https://apps.apple.com/app/id6818022759"><img src="assets/badge-app-store.svg" height="40" alt="在 App Store 下载"></a>
+  &nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=io.lv1.resource"><img src="assets/badge-google-play.png" height="52" alt="下载应用，请到 Google Play"></a>
+</p>
+
+<p align="center">
   <a href="https://lv1.io/resource/"><img src="https://img.shields.io/badge/官网-lv1.io/resource-3A6EA5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="官网"></a>
-  <a href="https://play.google.com/store/apps/details?id=io.lv1.resource"><img src="https://img.shields.io/endpoint?style=for-the-badge&logo=google-play&logoColor=white&color=34A853&url=https%3A%2F%2Fplay.cuzi.workers.dev%2Fplay%3Fi%3Dio.lv1.resource%26gl%3DUS%26hl%3Den%26l%3DGoogle%2520Play%26m%3D%25E2%2598%2585%2520%2524rating" alt="Google Play"></a>
   <a href="https://github.com/kenischu/ReSource/releases"><img src="https://img.shields.io/github/v/release/kenischu/ReSource?style=for-the-badge&label=Release&color=3A6EA5" alt="Release"></a>
-  <a href="https://apps.apple.com/app/id6818022759"><img src="https://img.shields.io/badge/App_Store-下载-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store"></a>
   <img src="https://img.shields.io/badge/Android_8.0+-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android 8.0+">
-  <img src="https://img.shields.io/badge/iOS_26+-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS 26+">
+  <img src="https://img.shields.io/badge/iOS_26+-000000?style=for-the-badge" alt="iOS 26+">
 </p>
 
 <p align="center"><b>Android</b></p>
@@ -207,9 +211,13 @@
 ## 下载
 
 <p align="center">
-  <a href="https://apps.apple.com/app/id6818022759"><img src="https://img.shields.io/badge/App_Store-iPhone_·_iPad-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store"></a>
-  <a href="https://play.google.com/store/apps/details?id=io.lv1.resource"><img src="https://img.shields.io/badge/Google_Play-Android-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"></a>
-  <a href="https://github.com/kenischu/ReSource/releases"><img src="https://img.shields.io/badge/GitHub_Releases-APK-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Releases (APK)"></a>
+  <a href="https://apps.apple.com/app/id6818022759"><img src="assets/badge-app-store.svg" height="40" alt="在 App Store 下载"></a>
+  &nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=io.lv1.resource"><img src="assets/badge-google-play.png" height="52" alt="下载应用，请到 Google Play"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kenischu/ReSource/releases"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/github-mark-white.svg"><img src="assets/github-mark.svg" height="20" alt=""></picture> GitHub Releases · 直接下载 APK</a>
 </p>
 
 <p align="center">免费下载 · 无广告 · Pro 可选 · iOS 26+ · Android 8.0+</p>
